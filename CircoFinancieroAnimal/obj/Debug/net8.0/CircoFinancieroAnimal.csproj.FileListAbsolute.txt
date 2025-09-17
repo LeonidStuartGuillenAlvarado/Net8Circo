@@ -1,0 +1,14 @@
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\bin\Debug\net8.0\CircoFinancieroAnimal.exe
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\bin\Debug\net8.0\CircoFinancieroAnimal.deps.json
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\bin\Debug\net8.0\CircoFinancieroAnimal.runtimeconfig.json
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\bin\Debug\net8.0\CircoFinancieroAnimal.dll
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\bin\Debug\net8.0\CircoFinancieroAnimal.pdb
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.AssemblyInfoInputs.cache
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.AssemblyInfo.cs
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.csproj.CoreCompileInputs.cache
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.dll
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\refint\CircoFinancieroAnimal.dll
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.pdb
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\CircoFinancieroAnimal.genruntimeconfig.cache
+D:\personal\academia\c#\CircoFinanciero\CircoFinancieroAnimal\obj\Debug\net8.0\ref\CircoFinancieroAnimal.dll
